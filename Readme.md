@@ -8,8 +8,12 @@ Soy Andrés Valencia, un apasionado colombiano de 22 años que encuentra su aleg
 - 💡 Resolviendo Problemas: Disfruto resolviendo desafíos y enfrentando problemas complejos. Mi objetivo es crear sistemas intuitivos y eficientes que hagan la vida de las personas un poco más fácil.
   
 - 🤝 Comunidad: Creo en el poder de la comunidad y me encanta colaborar con otros apasionados por la tecnología. Juntos, podemos lograr cosas increíbles.
-
-## 🌐 Redes Sociales:
+  
+# 💻 Mis proyectos:
+- ### [Maquina de Turing](https://github.com/Anedvago/maquina-de-turing)
+  - [Previsualizar](https://anedvago.github.io/maquina-de-turing/)
+  
+# 🌐 Redes Sociales:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/andres.valenciagomez.1/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/andresvg1_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andres-eduardo-valencia-gomez/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Andres-Valencia-the-selector) 
 
 # 💻 Tech Stack:
