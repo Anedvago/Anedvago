@@ -14,6 +14,8 @@ Soy Andrés Valencia, un apasionado colombiano de 22 años que encuentra su aleg
   - [Previsualizar](https://anedvago.github.io/maquina-de-turing/)
 - ### [Catalogo de productos](https://github.com/Anedvago/Catalogo-De-Productos)
   - [Previsualizar](https://maysar-78d73.firebaseapp.com/)
+- ### [Generador de frases para IG](https://github.com/Anedvago/Generador-De-Frases-Ig)
+  - [Previsualizar](https://generador-de-frases-ig-production.up.railway.app/)
   
 # 🌐 Redes Sociales:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/andres.valenciagomez.1/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/andresvg1_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andres-eduardo-valencia-gomez/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Andres-Valencia-the-selector) 
